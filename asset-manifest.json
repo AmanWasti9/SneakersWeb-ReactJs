@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/SneakersWeb-ReactJs/static/css/main.4256b361.css",
+    "main.js": "/SneakersWeb-ReactJs/static/js/main.b168bde9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/SneakersWeb-ReactJs/static/js/787.28cb0dcd.chunk.js",
+    "static/media/new1.jpg": "/SneakersWeb-ReactJs/static/media/new1.c37a943f436503b3d1fd.jpg",
+    "static/media/new3.jpg": "/SneakersWeb-ReactJs/static/media/new3.6edf94fbe33ef24da71b.jpg",
+    "static/media/new5.jpg": "/SneakersWeb-ReactJs/static/media/new5.47d9c6a2442dd370f903.jpg",
+    "static/media/e1.jpg": "/SneakersWeb-ReactJs/static/media/e1.fa8740002db173c06e7e.jpg",
+    "static/media/sneak.png": "/SneakersWeb-ReactJs/static/media/sneak.578caadfcb5bf5ff82ff.png",
+    "static/media/virat9.png": "/SneakersWeb-ReactJs/static/media/virat9.44c6f47a0b55071fc5fd.png",
+    "static/media/j1.jpg": "/SneakersWeb-ReactJs/static/media/j1.ab543c10cbbb3dc1228a.jpg",
+    "static/media/Logo.png": "/SneakersWeb-ReactJs/static/media/Logo.8e7d85b5d15fd6fca79a.png",
+    "static/media/a24.jpg": "/SneakersWeb-ReactJs/static/media/a24.916a6d97a2cdf75d5f8b.jpg",
+    "static/media/product8.jpg": "/SneakersWeb-ReactJs/static/media/product8.dc81713e89fd74ea5e96.jpg",
+    "static/media/c1.jpg": "/SneakersWeb-ReactJs/static/media/c1.0c0371820bafe8fb2bb2.jpg",
+    "static/media/f1.jpg": "/SneakersWeb-ReactJs/static/media/f1.57d90f2f90addd15d942.jpg",
+    "static/media/h1.jpg": "/SneakersWeb-ReactJs/static/media/h1.d4594d1462ab29ae9e27.jpg",
+    "static/media/b1.jpg": "/SneakersWeb-ReactJs/static/media/b1.e2004f667ac3e102eb95.jpg",
+    "static/media/virat10.jpg": "/SneakersWeb-ReactJs/static/media/virat10.5384753fa2aadc48264d.jpg",
+    "static/media/image3.jpg": "/SneakersWeb-ReactJs/static/media/image3.9b44816e5a51474f37d7.jpg",
+    "static/media/tick1.png": "/SneakersWeb-ReactJs/static/media/tick1.51d51931eedffebb182b.png",
+    "static/media/virat5.jpg": "/SneakersWeb-ReactJs/static/media/virat5.a793f750d8fe5a9a3a0e.jpg",
+    "static/media/bar.png": "/SneakersWeb-ReactJs/static/media/bar.dfe21a432a2e89bb61c8.png",
+    "static/media/image4.jpg": "/SneakersWeb-ReactJs/static/media/image4.da477f316c2a5be9e938.jpg",
+    "index.html": "/SneakersWeb-ReactJs/index.html",
+    "main.4256b361.css.map": "/SneakersWeb-ReactJs/static/css/main.4256b361.css.map",
+    "main.b168bde9.js.map": "/SneakersWeb-ReactJs/static/js/main.b168bde9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/SneakersWeb-ReactJs/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4256b361.css",
+    "static/js/main.b168bde9.js"
+  ]
+}
